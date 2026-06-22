@@ -1,0 +1,10 @@
+## Reproducibility Workflow
+
+1. Collect raw datasets
+2. Clean and harmonize datasets
+3. Run quantitative Stata analysis
+4. Process media articles
+5. Perform sentiment analysis in Orange3
+6. Analyse humanitarian reports in Voyant
+7. Compare findings through triangulation
+8. Generate figures and tables
