@@ -1,0 +1,19 @@
+# Workflow
+
+RAW DATA
+↓
+OpenRefine Cleaning
+↓
+Language Separation
+↓
+Orange Sentiment Analysis
+↓
+Sentiment CSV Output
+↓
+Stata Analysis
+↓
+Visualisations
+↓
+Triangulation
+↓
+Thesis Results
